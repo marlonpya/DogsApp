@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DogsApp</string>
+
+
+    <!-- List of dogs-->
+    <string name="dogs_list.title">Dogs We Love</string>
+    <string name="dogs_list.success_description">Scaffold Visible</string>
+    <string name="dogs_list.item_description">Scaffold Visible</string>
+    <string name="dogs_list.name">Home screen</string>
+
+    <!-- Dog detail-->
+    <string name="dog_detail.title">Dog</string>
+
+    <!-- Error -->
+    <string name="error">Error image</string>
+    <string name="error_clean">Error image clean</string>
+    <string name="error_image_url">https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Error.svg/1200px-Error.svg.png</string>
+
+    <!-- Others -->
+    <string name="loading">Loading visible</string>
+    <string name="empty_text">There are no dogs available</string>
+    <string name="msg_error_with_retry">Click to try again</string>
+
+
+</resources>
